@@ -31,4 +31,4 @@ Para me contactar ou se conectar comigo, acesse meu LinkedIn pelo link abaixo:
 Vamos juntos!!!
 
  
-![Snake animation](https://github.com/{{mMaxdev1017x}}/{{Maxdev1017x}}/blob/output/github-contribution-grid-snake.svg)
+

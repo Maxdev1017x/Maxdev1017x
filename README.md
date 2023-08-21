@@ -8,7 +8,9 @@ Sou o Maxwell! 🖐️
 
 [![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=dracula&hide_progress=true)
+
+
 
 
 Tecnologias que uso:

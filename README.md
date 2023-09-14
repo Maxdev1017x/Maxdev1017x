@@ -1,7 +1,7 @@
 ### Olá! 🖐️
 Sou o Maxwell! 
 
-💻 No momento estou na reta final do curso de Desenvolvimento Front-end.<br>
+💻 No momento estou estudando Typescript e mais sobre Javascript
 
 
 <br>

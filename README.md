@@ -1,20 +1,21 @@
 ### Olá! 🖐️
 Sou o Maxwell! 
 
-💻 No momento estou estudando Typescript e mais sobre Javascript
+💻 No momento estou estudando mais sobre Javascript.
+💻 Também estou aprendendo Typescript.
 
 
 <br>
 
-![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=dracula)
+![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=dracula&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=radical&hide_progress=true)
 
 
 
 
-Tecnologias que uso:
+Algumas tecnologias que uso:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

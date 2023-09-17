@@ -1,8 +1,8 @@
 ### Olá! 🖐️
 Sou o Maxwell! 
 
-💻 No momento estou estudando mais sobre Javascript.
-💻 Também estou aprendendo Typescript.
+📚 No momento estou estudando mais sobre Javascript. <br>
+📚 Também estou aprendendo Typescript.
 
 
 <br>

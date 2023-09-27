@@ -2,7 +2,7 @@
 Sou o Maxwell! 
 
 📚 No momento estou estudando mais sobre Javascript. <br>
-📚 Também estou aprendendo Typescript.
+📚 Também estou aprendendo React e mais sobre Typescript.
 
 
 <br>

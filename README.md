@@ -7,10 +7,10 @@ Sou o Maxwell!
 
 <br>
 
-![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=dracula)
+![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=rose_pine)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=dracula&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=rose_pine&hide_progress=true)
 
 
 

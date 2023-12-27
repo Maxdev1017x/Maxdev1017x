@@ -34,11 +34,13 @@
 <br>
 
 
-### Aprendendo ou aperfeiçoando no momento: 
+### Aprendendo ou aperfeiçoando: 
 
 - Javascript
   
-- React + NextJs
+- ReactJs + NextJs
+
+- WordPress
 
 <br> 
 

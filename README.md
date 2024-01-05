@@ -40,7 +40,6 @@
   
 - ReactJs + NextJs
 
-- WordPress
 
 <br> 
 

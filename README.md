@@ -34,7 +34,6 @@
 <br>
 <br>
 
-Tailwind-38B2AC
 ### Aprendendo ou aperfeiçoando: 
 
 - Javascript

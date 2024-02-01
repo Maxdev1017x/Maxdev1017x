@@ -30,6 +30,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=react&logoColor=38B2AC)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <br>
 <br>
@@ -45,11 +46,6 @@
 
 <br> 
 
-### Eventos que estou participando no momento: 
-
-- Bootcamp de Desenvolvimento Frontend com Angular - ( Promovido por: DIO + BANCO PAN )
-
-<br>
 
 ### Contato:
 

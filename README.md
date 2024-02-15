@@ -39,7 +39,6 @@
 
 - Javascript
   
-- ReactJs + NextJs
   
 - WordPress
 

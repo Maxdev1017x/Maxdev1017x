@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Maxwell 👋</h1> 
+<h1 align="center">Hey! Sou o  Maxwell 👋</h1> 
 <br>
 <br>
 
@@ -12,10 +12,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=omni&hide_progress=true)
 
 
-
 <br>
 
-### Algumas tecnologias que uso:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxdev1017x&bg_color=191622&color=FF99C6&line=FFF&point=24292e&area=true&hide_border=true)](https://github.com/Maxdev1017x/github-readme-activity-graph)
+
+### ALGUMAS FERRAMENTAS QUE USO
 
 <br>
 
@@ -28,28 +29,23 @@
 <br>
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=react&logoColor=38B2AC)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+<br>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <br>
 <br>
 
-### Aprendendo ou aperfeiçoando: 
 
-- Javascript
-  
-  
-- WordPress
-
-
-<br> 
-
-
-### Contato:
+### CONTATO
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwell0010)
+
+
 
 
 

@@ -1,20 +1,22 @@
 <h1 align="center">Hey! Sou o  Maxwell 👋</h1> 
 <br>
 <br>
+<img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos2/blob/main/code.gif?raw=true"![Uploading code.gif…]()
+" width="555" height="320" />
 
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Maxdev1017x&theme=omni&mode=weekly"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Maxdev1017x&theme=github_dark_dimmed&mode=weekly"/>
 
 
-![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=omni)
+![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=github_dark_dimmed)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=omni&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdev1017x&theme=github_dark_dimmed&hide_progress=true)
 
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxdev1017x&bg_color=191622&color=FF99C6&line=FFF&point=24292e&area=true&hide_border=true)](https://github.com/Maxdev1017x/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxdev1017x&bg_color=24292F&color=4E90E3&line=FFF&point=FFF&area=true&hide_border=true)](https://github.com/Maxdev1017x/github-readme-activity-graph)
 
 ### ALGUMAS FERRAMENTAS QUE USO
 

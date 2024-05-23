@@ -1,8 +1,8 @@
 <h1 align="center">Hey! Sou o  Maxwell 👋</h1> 
 <br>
 <br>
-<img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/Maxdev1017x/blob/main/code.gif?raw=true"![Uploading code.gif…]()
-" width="465" height="320" />
+<img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos/blob/main/homer.png"![Uploading code.gif…]()
+" width="500" height="400" />
 
 
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Maxdev1017x&theme=github_dark_dimmed&mode=weekly"/>

@@ -2,7 +2,7 @@
 <br>
 <br>
 <img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos/blob/main/homer.png"![Uploading code.gif…]()
-" width="650" height="650" />
+" width="640" height="580" />
 
 
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Maxdev1017x&theme=github_dark_dimmed&mode=weekly"/>

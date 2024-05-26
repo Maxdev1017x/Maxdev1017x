@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Sou o  Maxwell 👋</h1> 
 <br>
 <br>
-<img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos2/blob/main/code.gif"![Uploading code.gif…]()
+<img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos/blob/main/code.gif"![Uploading code.gif…]()
 " width="556.6px" height="319.26px" />
 
 

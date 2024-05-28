@@ -1,5 +1,6 @@
-<h1 align="center">Hey! Sou o  Maxwell 👋</h1> 
-<br>
+Olá! Sou o Maxwell ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+===============================================================================================================================================
+
 <br>
 <img align="center"  alt="GIF" src="https://github.com/Maxdev1017x/servidor_estaticos/blob/main/code.gif"![Uploading code.gif…]()
 " width="465.3px" height="319.26px" />
@@ -17,6 +18,7 @@
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxdev1017x&bg_color=24292F&color=4E90E3&line=FFF&point=FFF&area=true&hide_border=true)](https://github.com/Maxdev1017x/github-readme-activity-graph)
+
 
 ### ALGUMAS FERRAMENTAS QUE USO
 

@@ -6,8 +6,6 @@ Olá! Sou o Maxwell ![](https://user-images.githubusercontent.com/18350557/17630
 " width="465.3px" height="319.26px" />
 
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Maxdev1017x&theme=github_dark_dimmed&mode=weekly"/>
-
 
 ![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=github_dark_dimmed)
 

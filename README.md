@@ -12,9 +12,6 @@ Sempre em busca de novos desafios que me permitam crescer e aprender, estou comp
 <br>
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Maxdev1017x&theme=github_dark_dimmed )
-
-
 
 ![Maxdev1017x GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxdev1017x&show_icons=true&theme=github_dark_dimmed)
 

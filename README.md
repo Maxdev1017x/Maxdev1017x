@@ -6,10 +6,12 @@ Olá! Sou o Maxwell ![](https://user-images.githubusercontent.com/18350557/17630
 " width="494.3px" height="319.26px" />
 
 ## Sobre mim
-Olá! Sou um Desenvolvedor Júnior apaixonado por tecnologia e inovação.
+Olá!
+<br>
+Sou um Desenvolvedor apaixonado por tecnologia e inovação.
 Tenho um entusiasmo contagiante por tudo o que envolve tecnologia e inovação. Estou constantemente em busca de novos desafios que me permitam expandir meus conhecimentos e habilidades. 
 
-Estou comprometido com a melhoria contínua e adoro mergulhar em projetos dinâmicos, onde posso aplicar minha criatividade e expertise para desenvolver soluções eficazes e inovadoras. Meu objetivo é colaborar com equipes inspiradoras e contribuir para o sucesso de projetos impactantes.
+Estou comprometido com a melhoria contínua e adoro mergulhar em projetos dinâmicos, onde posso aplicar minha criatividade e expertise para desenvolver soluções eficazes e inovadoras. Meu objetivo é colaborar e contribuir para o sucesso de projetos impactantes.
 
 Vamos conectar e transformar ideias em realidade! 🚀
 <br>

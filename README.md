@@ -1,7 +1,18 @@
 <h1 align="center">Olá! Sou o Maxwell 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor focado em resolver problemas reais com boas práticas como código limpo, segurança e eficiência.</b>
+  <b>Desenvolvedor Web | PHP, JavaScript e Python</b><br>
+  Análise e Desenvolvimento de Sistemas • Gestão da Qualidade
+</p>
+
+<p align="center">
+  Desenvolvedor focado em resolver problemas reais com código limpo, segurança e eficiência.<br>
+  +15 anos de experiência profissional, 13 deles na indústria, e em tecnologia desde 2024.
+</p>
+
+<p align="center">
+  <img alt="Aberto a oportunidades" src="https://img.shields.io/badge/%F0%9F%9F%A2_Aberto_a_oportunidades-2EA043?style=for-the-badge" /><br>
+  <sub>Remoto • Híbrido • Presencial</sub>
 </p>
 
 <br>
@@ -12,7 +23,7 @@
 
 ### Sobre mim
 
-Sou o tipo de desenvolvedor que **não apenas escreve código, mas entrega soluções de negócio**. Seja otimizando um algoritmo para rodar 30% mais rápido ou criando automações que economizam horas de trabalho manual, meu foco é sempre gerar **valor tangível**.
+Sou o tipo de desenvolvedor que **não apenas escreve código, mas entrega soluções de negócio**. Seja integrando sistemas via API, otimizando páginas web ou padronizando processos, meu foco é sempre gerar **valor tangível**.
 
 As tecnologias com as quais mais trabalhei são **PHP, JavaScript e Python**.
 
@@ -30,6 +41,34 @@ Vamos construir algo incrível juntos? Me chame no LinkedIn. **O café (ou o ch�
 
 <br>
 
+## 💡 Meu diferencial
+
+Antes de migrar para tecnologia, trabalhei 13 anos na indústria, em operações, acompanhando e participando de processos e projetos de qualidade e melhoria contínua. Por isso por dizer que **entendo um pouco sobre o processo por trás do software**. Nas empresas em que atuei como desenvolvedor, não havia outros desenvolvedores, então assumi sozinho o levantamento de requisitos, o desenvolvimento e a documentação de como usar as aplicações que criei. Na indústria, também revisei e escrevi procedimentos de processos fabris inteiros, além de desenvolver treinamentos. Levo para o desenvolvimento autonomia, organização, visão de processos e clareza na comunicação, para entender o problema antes de codar e entregar com menos retrabalho.
+
+## 🎓 Formação e Experiência
+
+**Formação acadêmica**
+- Graduação em Análise e Desenvolvimento de Sistemas
+- Graduação em Gestão da Qualidade
+- Técnico em Metalurgia
+
+**Experiência em tecnologia**
+- **Desenvolvedor Web** (último cargo): responsável único por todo o ciclo de desenvolvimento e manutenção do ecossistema digital.
+  - Desenvolvimento e manutenção de aplicações, sites e landing pages
+  - Integrações de sistemas via API, para comunicação de dados entre plataformas
+  - Sustentação, manutenção preventiva e auxílio na alimentação do ERP do grupo
+  - Otimização de páginas web e apoio à qualidade de produtos, serviços e processos
+- **Anteriormente:** Estagiário de Sistemas e Desenvolvedor Web
+
+**Experiência na indústria (13 anos)**
+- Operações, qualidade e melhoria contínua
+- Liderança de equipe, treinamento e orientação
+- Padronização de procedimentos operacionais, 5S, Lean, Kanban e metodologias ágeis
+
+**Posso atuar em:** Desenvolvimento Web • Front-end • Back-end • Full Stack • Qualidade de Software (QA) • Análise de Requisitos entre outros.
+
+<br>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### ⭐ Onde tenho mais experiência
@@ -41,7 +80,7 @@ Vamos construir algo incrível juntos? Me chame no LinkedIn. **O café (ou o ch�
 
 <p align="center"><i>As tecnologias com as quais mais trabalhei até hoje.</i></p>
 
-**Outras tecnologias e ferramentas que utilizo ou já utilizei ao menos uma vez:**
+**Outras tecnologias e ferramentas que utilizo ou já utilizei:**
 
 ### 🎨 Front-end e Desktop
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,17 +131,27 @@ Vamos construir algo incrível juntos? Me chame no LinkedIn. **O café (ou o ch�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🎯 Design, Gestão e Produtividade
+### 🎯 Design, Dados e Gestão
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSIxMiIgeT0iMTciIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxMyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkM8L3RleHQ%2BPC9zdmc%2B&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 <br>
 
-## 📊 Atividade no GitHub
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <img width="100%" alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=Maxdev1017x&bg_color=24292F&color=4E90E3&line=FFF&point=FFF&area=true&hide_border=true" />
-</p>
+<!--
+PREENCHA COM 2 OU 3 PROJETOS E APAGUE ESTA LINHA E A DE FECHAMENTO DO COMENTÁRIO.
+Modelo (um por projeto):
+
+### 🔹 Nome do projeto
+Uma frase dizendo o problema que resolve. 
+**Tecnologias:** PHP • JavaScript • MySQL
+🔗 [Código](https://github.com/Maxdev1017x/NOME-DO-REPOSITORIO) • [Ver online](https://link-do-projeto)
+-->
+
+> 📌 Veja meus repositórios fixados no topo do perfil.
